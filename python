@@ -1,0 +1,12 @@
+这个是python的常用头部
+
+#!/user/bin/python3
+# -*- coding:utf-8 -*-
+
+
+字典=多值变量
+z = ['action:Add','action:Update','action:Delete','action:Login','action:Logout','action:Enable','action:Disable']
+它们通过f[?],中括号里的问号来定位，排序从0开
+
+
+
